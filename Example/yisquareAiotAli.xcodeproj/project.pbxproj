@@ -63,10 +63,10 @@
 		7FD46B9BD4D034938074FD6E /* Pods-yisquareAiotAli_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yisquareAiotAli_Example.release.xcconfig"; path = "Target Support Files/Pods-yisquareAiotAli_Example/Pods-yisquareAiotAli_Example.release.xcconfig"; sourceTree = "<group>"; };
 		80DBED76278873F95692C5E8 /* Pods_yisquareAiotAli_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yisquareAiotAli_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AD71826A2143F013DE2F2FDB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		AD71826A2143F013DE2F2FDB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D2FA316AC38188E2BF35B2CC /* Pods_yisquareAiotAli_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_yisquareAiotAli_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D3CB0496B634ABA72CC7AF74 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F8430D1F84789011AE13BE6C /* yisquareAiotAli.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = yisquareAiotAli.podspec; path = ../yisquareAiotAli.podspec; sourceTree = "<group>"; };
+		D3CB0496B634ABA72CC7AF74 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F8430D1F84789011AE13BE6C /* yisquareAiotAli.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = yisquareAiotAli.podspec; path = ../yisquareAiotAli.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,6 @@
 				28E8C19F0A7D389216AB86CD /* Pods-yisquareAiotAli_Tests.debug.xcconfig */,
 				14D796D1ABE3BFE4FC155D7E /* Pods-yisquareAiotAli_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -259,6 +258,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

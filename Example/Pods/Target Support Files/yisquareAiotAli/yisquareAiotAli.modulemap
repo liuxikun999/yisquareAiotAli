@@ -1,0 +1,6 @@
+framework module yisquareAiotAli {
+  umbrella header "yisquareAiotAli-umbrella.h"
+
+  export *
+  module * { export * }
+}

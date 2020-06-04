@@ -1,0 +1,22 @@
+{
+  "name": "yisquareAiotAli",
+  "version": "0.1.0",
+  "summary": "A short description of yisquareAiotAli.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuxikun/yisquareAiotAli",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuxikun": "18774928141@139.com"
+  },
+  "source": {
+    "git": "https://github.com/liuxikun/yisquareAiotAli.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "yisquareAiotAli/Classes/**/*"
+}
